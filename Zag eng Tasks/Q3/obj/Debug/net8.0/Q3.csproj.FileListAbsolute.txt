@@ -1,0 +1,14 @@
+D:\Zag .Net\Tasks\Task 5\Q3\bin\Debug\net8.0\Q3.exe
+D:\Zag .Net\Tasks\Task 5\Q3\bin\Debug\net8.0\Q3.deps.json
+D:\Zag .Net\Tasks\Task 5\Q3\bin\Debug\net8.0\Q3.runtimeconfig.json
+D:\Zag .Net\Tasks\Task 5\Q3\bin\Debug\net8.0\Q3.dll
+D:\Zag .Net\Tasks\Task 5\Q3\bin\Debug\net8.0\Q3.pdb
+D:\Zag .Net\Tasks\Task 5\Q3\obj\Debug\net8.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zag .Net\Tasks\Task 5\Q3\obj\Debug\net8.0\Q3.AssemblyInfoInputs.cache
+D:\Zag .Net\Tasks\Task 5\Q3\obj\Debug\net8.0\Q3.AssemblyInfo.cs
+D:\Zag .Net\Tasks\Task 5\Q3\obj\Debug\net8.0\Q3.csproj.CoreCompileInputs.cache
+D:\Zag .Net\Tasks\Task 5\Q3\obj\Debug\net8.0\Q3.dll
+D:\Zag .Net\Tasks\Task 5\Q3\obj\Debug\net8.0\refint\Q3.dll
+D:\Zag .Net\Tasks\Task 5\Q3\obj\Debug\net8.0\Q3.pdb
+D:\Zag .Net\Tasks\Task 5\Q3\obj\Debug\net8.0\Q3.genruntimeconfig.cache
+D:\Zag .Net\Tasks\Task 5\Q3\obj\Debug\net8.0\ref\Q3.dll
