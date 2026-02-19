@@ -1,0 +1,14 @@
+D:\Zag .Net\Traning\Linq_Session\obj\Debug\net8.0\Linq_Session.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zag .Net\Traning\Linq_Session\obj\Debug\net8.0\Linq_Session.AssemblyInfoInputs.cache
+D:\Zag .Net\Traning\Linq_Session\obj\Debug\net8.0\Linq_Session.AssemblyInfo.cs
+D:\Zag .Net\Traning\Linq_Session\obj\Debug\net8.0\Linq_Session.csproj.CoreCompileInputs.cache
+D:\Zag .Net\Traning\Linq_Session\bin\Debug\net8.0\Linq_Session.exe
+D:\Zag .Net\Traning\Linq_Session\bin\Debug\net8.0\Linq_Session.deps.json
+D:\Zag .Net\Traning\Linq_Session\bin\Debug\net8.0\Linq_Session.runtimeconfig.json
+D:\Zag .Net\Traning\Linq_Session\bin\Debug\net8.0\Linq_Session.dll
+D:\Zag .Net\Traning\Linq_Session\bin\Debug\net8.0\Linq_Session.pdb
+D:\Zag .Net\Traning\Linq_Session\obj\Debug\net8.0\Linq_Session.dll
+D:\Zag .Net\Traning\Linq_Session\obj\Debug\net8.0\refint\Linq_Session.dll
+D:\Zag .Net\Traning\Linq_Session\obj\Debug\net8.0\Linq_Session.pdb
+D:\Zag .Net\Traning\Linq_Session\obj\Debug\net8.0\Linq_Session.genruntimeconfig.cache
+D:\Zag .Net\Traning\Linq_Session\obj\Debug\net8.0\ref\Linq_Session.dll
