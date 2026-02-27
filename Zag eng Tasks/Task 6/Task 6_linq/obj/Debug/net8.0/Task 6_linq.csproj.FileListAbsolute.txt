@@ -1,0 +1,14 @@
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\bin\Debug\net8.0\Task 6_linq.exe
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\bin\Debug\net8.0\Task 6_linq.deps.json
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\bin\Debug\net8.0\Task 6_linq.runtimeconfig.json
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\bin\Debug\net8.0\Task 6_linq.dll
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\bin\Debug\net8.0\Task 6_linq.pdb
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\obj\Debug\net8.0\Task 6_linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\obj\Debug\net8.0\Task 6_linq.AssemblyInfoInputs.cache
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\obj\Debug\net8.0\Task 6_linq.AssemblyInfo.cs
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\obj\Debug\net8.0\Task 6_linq.csproj.CoreCompileInputs.cache
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\obj\Debug\net8.0\Task 6_linq.dll
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\obj\Debug\net8.0\refint\Task 6_linq.dll
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\obj\Debug\net8.0\Task 6_linq.pdb
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\obj\Debug\net8.0\Task 6_linq.genruntimeconfig.cache
+D:\Zag .Net\Tasks\Task 6\Task 6_linq\obj\Debug\net8.0\ref\Task 6_linq.dll
